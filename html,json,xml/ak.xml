@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<root>
+		<employee
+			<name>akshay</name>
+			<id>235939</id>
+			<preference>data science</preference>
+			<preference>cloud</preference>
+			<preference>devops</preference>
+		
+		</employee>
+
+</root>

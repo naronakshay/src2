@@ -1,0 +1,49 @@
+{
+	"employee":
+	[
+	{
+		"name":"Akshay" ,
+		"id":235939 ,
+		"location":"trivandrum" ,
+		"preferences":["data science","cloud","devops"]
+		
+	},
+	
+	{
+		"name":"Krishnapriya" ,
+		"id":235925,
+		"location":"trivandrum" ,
+		"preferences":["data science","cloud","devops"]
+		
+	}
+		
+	],
+	
+	"manager":
+	[
+	{
+		"name":"Irene Jos" ,
+		"id":235926,
+		"location":"trivandrum" ,
+		
+	},
+	{
+		"name":"Adwaith" ,
+		"id":235789,
+		"location":"trivandrum" ,
+		
+	}
+	
+	
+	
+	
+	
+	]
+	
+	
+	
+	
+	
+	
+	
+}
